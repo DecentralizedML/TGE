@@ -23,11 +23,11 @@ https://medium.com/decentralized-machine-learning/dml-token-generation-event-tge
  
  
 Verification four — Github:
-https://github.com/DecentralizedML
+https://github.com/DecentralizedML/TGE/
 
 
 Verification five — Twitter post:
-https://twitter.com/DecentralizedML
+https://twitter.com/DecentralizedML/status/985806119078576128
  
  
 Verification six — Pinned message in Telegram Community:
